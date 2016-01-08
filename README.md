@@ -1,6 +1,11 @@
 HL7InfobuttonDotNet
 ===================
 
+This is a fork of  https://github.com/lrasmus/HL7InfobuttonDotNet.git
+
+Ported to .Net core 5
+
+
 C# library containing a parser that understands the HL7 Infobutton web API standard.  This work was developed as part of the eMERGE EHR Integration workgroup. 
 
 This work is licensed under a Creative Commons Attribution 3.0 Unported License:
